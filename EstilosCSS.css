@@ -1,0 +1,11 @@
+body {
+    background-color: red;    color: blue;
+}
+
+.parrafoGeneral {
+    font-style: italic;
+} 
+
+#ultimoParrafo {
+    text-decoration: line-through;
+}
